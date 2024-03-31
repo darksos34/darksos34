@@ -1,4 +1,5 @@
-### Hi there 👋
+<div align="center">
+  ### Hi there 👋
 
 <!--
 **darksos34/darksos34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Welcome to Jordy-Coder's Profile                          
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=darksos34&theme=one-dark-pro&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+</div>
