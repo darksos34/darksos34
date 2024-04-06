@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://streak-stats.demolab.com?user=darksos34&theme=one-dark-pro&date_format=M%20j%5B%2C%20Y%5D)](https://streak-stats.demolab.com/?user=darksos34&theme=one-dark-pro&date_format=M%20j%5B%2C%20Y%5D)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=darksos34&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=darksos34&hide_progress=true&theme=default&hide=html,css,php&langs_count=15)
 <h3>When I code, I rely on</h3>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
