@@ -28,10 +28,6 @@ Here are some ideas to get you started:
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white" />
 </p>
 <p>
-  <img alt="Csharp" src="https://img.shields.io/badge/-CSharp-512BD4?style=flat-square&logo=csharp&logoColor=white" />
-  <img alt=".NET" src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=NET&logoColor=white" />
-</p>
-<p>
   <img alt="OpenJDK" src="https://img.shields.io/badge/-openjdk-000000?style=flat-square&logo=openjdk&logoColor=white" />
   <img alt="Red Hat Openshift" src="https://img.shields.io/badge/-redhatopenshift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white" />
   <img alt="openai" src="https://img.shields.io/badge/-openai-412991?style=flat-square&logo=openai&logoColor=white" />
