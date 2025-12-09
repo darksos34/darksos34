@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Welcome to Jordy-Coder's Profile                          
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=darksos34&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=darksos34&theme=dark)]([https://git.io/streak-stats](https://streak-stats.demolab.com/demo/?user=darksos34&theme=dark&hide_border=false&border_radius=4.5&locale=enhttps://streak-stats.demolab.com/demo/preview.php?user=darksos34&theme=dark))
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=darksos34&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=darksos34&hide_progress=true&theme=default&hide=html,css,php&langs_count=15)
