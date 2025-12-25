@@ -36,7 +36,6 @@ Here are some ideas to get you started:
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="ReactJs" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="VueJs" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
   <img alt="NextJs" src="https://img.shields.io/badge/-next.js-4FC08D?style=flat-square&logo=next.js&logoColor=white" />
 </p>
 <p>
