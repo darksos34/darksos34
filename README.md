@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 
 # Welcome to Jordy-Coder's Profile                          
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=darksos34&theme=dark)]([https://git.io/streak-stats](https://streak-stats.demolab.com/demo/?user=darksos34&theme=dark&hide_border=false&border_radius=4.5&locale=enhttps://streak-stats.demolab.com/demo/preview.php?user=darksos34&theme=dark))
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=darksos34&theme=dark)](https://git.io/streak-stats)
 <h3>When I code, I rely on</h3>
 
 <p>
