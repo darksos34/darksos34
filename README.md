@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # Welcome to Jordy-Coder's Profile                          
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=darksos34@theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=darksos34)](https://git.io/streak-stats)
 <h3>When I code, I rely on</h3>
 
 <p>
